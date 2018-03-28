@@ -5,3 +5,7 @@ proj.user
 Debug/
 tempRainMqtt.vcxproj
 tempRainMqtt.vcxproj.filters
+.gitattributes
+.vs/
+tempRainMqtt.vcxproj.user
+
