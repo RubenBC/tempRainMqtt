@@ -3,7 +3,12 @@
 #include <PubSubClient.h> 
 #include <DallasTemperature.h>
 
+<<<<<<< HEAD
 //cambio
+=======
+//estamos en la rama ota 
+//hago otra modificacion a la rama ota
+>>>>>>> ota
 
 #define oneWirePin 2  // PIN DE SENSOR DS18B20..TEMPERATURA 
 #define pinLluvia A0  // PIN DE SENSOR ANALOGICO DE LLUVIA
