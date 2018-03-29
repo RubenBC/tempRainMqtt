@@ -3,6 +3,8 @@
 #include <PubSubClient.h> 
 #include <DallasTemperature.h>
 
+//cambio
+
 #define oneWirePin 2  // PIN DE SENSOR DS18B20..TEMPERATURA 
 #define pinLluvia A0  // PIN DE SENSOR ANALOGICO DE LLUVIA
 #define vcc 12        // PIN SUMINISTRA ENERGIA SENSOR LLUVIA
